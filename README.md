@@ -6,16 +6,16 @@ The purpose of this project is to build an interactive HTML webpage with JavaScr
 After entering to the webpage of UFO Sightings, there is a brief introduction of the webpage and give the user the option to enter their own search.
 
 
-![](/images/UFOs_webpage.png)
+![](/images/UFOs_webpage.PNG)
 
 After scrolling down the page, the user can see 5 different filters, including date, city, state, country and shape. The user can choose to enter any info into the search box then the webpage will automatically generate the updated UFOs sighting data on the left. For example, if user wants to see the UFOs sighting in California, the user has to enter "ca" in the state search box. After entering the search data, the webpage will generate the updated table with only sightings in California. 
 
-![](/images/UFOs_filtered.png)
+![](/images/UFOs_filtered.PNG)
 
 Multiple filters can be entered if the user wants to look up specific sightings data.
 
 
-![](/images/UFOs_filtered_multiple.png)
+![](/images/UFOs_filtered_multiple.PNG)
 
 
 ## Summary:
